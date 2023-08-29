@@ -4,6 +4,7 @@
   "description": "Fetcher library of Nestia SDK without import2 and node-fetch",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
+  "private": false,
   "scripts": {
     "build": "rimraf lib && tsc",
     "dev": "npm run build -- --watch",
