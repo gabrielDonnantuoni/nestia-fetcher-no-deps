@@ -1,7 +1,7 @@
 {
   "name": "@nestia/fetcher-no-deps",
   "version": "1.6.5",
-  "description": "Fetcher library of Nestia SDK without import2",
+  "description": "Fetcher library of Nestia SDK without import2 and node-fetch",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "scripts": {
